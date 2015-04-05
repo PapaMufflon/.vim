@@ -1,3 +1,6 @@
 [submodule "bundle/vimwiki"]
 	path = bundle/vimwiki
 	url = git://github.com/vim-scripts/vimwiki.git
+[submodule "bundle/omnisharp-vim.git"]
+	path = bundle/omnisharp-vim.git
+	url = https://github.com/OmniSharp/omnisharp-vim.git
