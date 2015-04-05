@@ -4,3 +4,6 @@
 [submodule "bundle/omnisharp-vim.git"]
 	path = bundle/omnisharp-vim.git
 	url = https://github.com/OmniSharp/omnisharp-vim.git
+[submodule "bundle/vim-dispatch"]
+	path = bundle/vim-dispatch
+	url = git://github.com/tpope/vim-dispatch.git
