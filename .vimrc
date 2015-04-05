@@ -2,6 +2,7 @@ set nocp
 execute pathogen#infect()
 syntax on
 filetype plugin indent on
+colorscheme mymolokai
 
 " syntastic
 set statusline+=%#warningmsg#
